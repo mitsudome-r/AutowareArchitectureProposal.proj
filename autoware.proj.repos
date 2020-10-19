@@ -35,14 +35,14 @@ repositories:
     url: https://github.com/tier4/osqp_vendor.git
     version: main
   # vendor
-#  vendor/lanelet2:
-#    type: git
-#    url: https://github.com/fzi-forschungszentrum-informatik/Lanelet2.git
-#    version: master
-#  vendor/mrt_cmake_modules:
-#    type: git
-#    url: https://github.com/KIT-MRT/mrt_cmake_modules.git
-#    version: master
+  vendor/lanelet2:
+    type: git
+    url: https://github.com/fzi-forschungszentrum-informatik/Lanelet2.git
+    version: e774b8701a9d0e0c743e907d92fcbab03528e5ef
+  vendor/mrt_cmake_modules:
+    type: git
+    url: https://github.com/KIT-MRT/mrt_cmake_modules.git
+    version: 1.0.8
 #  vendor/livox_ros_driver:
 #    type: git
 #    url: https://github.com/Livox-SDK/livox_ros_driver.git
