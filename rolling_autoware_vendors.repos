@@ -33,7 +33,7 @@ repositories:
     version: dashing-devel
   rolling_autoware_vendors/filters:
     type: git
-    url: https://github.com/mitsduome-r/filters.git
+    url: https://github.com/mitsudome-r/filters.git
     version: rolling-devel
   rolling_autoware_vendors/lanelet2:
     type: git
