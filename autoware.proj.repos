@@ -2,8 +2,8 @@ repositories:
   # autoware
   autoware/AutowareArchitectureProposal.iv:
     type: git
-    url: https://github.com/tier4/AutowareArchitectureProposal.iv.git
-    version: ros2
+    url: https://github.com/mitsudome-r/AutowareArchitectureProposal.iv.git
+    version: rolling-devel
   autoware/launcher:
     type: git
     url: https://github.com/tier4/autoware_launcher.iv.universe.git
